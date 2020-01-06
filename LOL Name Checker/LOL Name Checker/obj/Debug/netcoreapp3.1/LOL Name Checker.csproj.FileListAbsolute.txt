@@ -1,0 +1,11 @@
+C:\Users\kody\source\repos\LOL Name Checker\LOL Name Checker\obj\Debug\netcoreapp3.1\LOL Name Checker.csprojAssemblyReference.cache
+C:\Users\kody\source\repos\LOL Name Checker\LOL Name Checker\obj\Debug\netcoreapp3.1\LOL Name Checker.AssemblyInfoInputs.cache
+C:\Users\kody\source\repos\LOL Name Checker\LOL Name Checker\obj\Debug\netcoreapp3.1\LOL Name Checker.AssemblyInfo.cs
+C:\Users\kody\source\repos\LOL Name Checker\LOL Name Checker\bin\Debug\netcoreapp3.1\LOL Name Checker.exe
+C:\Users\kody\source\repos\LOL Name Checker\LOL Name Checker\bin\Debug\netcoreapp3.1\LOL Name Checker.deps.json
+C:\Users\kody\source\repos\LOL Name Checker\LOL Name Checker\bin\Debug\netcoreapp3.1\LOL Name Checker.runtimeconfig.json
+C:\Users\kody\source\repos\LOL Name Checker\LOL Name Checker\bin\Debug\netcoreapp3.1\LOL Name Checker.runtimeconfig.dev.json
+C:\Users\kody\source\repos\LOL Name Checker\LOL Name Checker\bin\Debug\netcoreapp3.1\LOL Name Checker.dll
+C:\Users\kody\source\repos\LOL Name Checker\LOL Name Checker\bin\Debug\netcoreapp3.1\LOL Name Checker.pdb
+C:\Users\kody\source\repos\LOL Name Checker\LOL Name Checker\obj\Debug\netcoreapp3.1\LOL Name Checker.dll
+C:\Users\kody\source\repos\LOL Name Checker\LOL Name Checker\obj\Debug\netcoreapp3.1\LOL Name Checker.pdb
